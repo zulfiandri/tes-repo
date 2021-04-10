@@ -1,8 +1,8 @@
 nama
 zulfianndri
 
-alamat
-depok Cisalak
-
 jenis kelamin
 Laki-laki
+
+alamat sesuai ktp
+no 15 jalan masjid Cisalak Depok
